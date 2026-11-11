@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1877713_sd_lan.admin" name="x_1877713_sd_lan.admin">b8fd6fa0c3a09f10fd781212b4013188</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-11 12:31:24</sys_created_on>
+        <sys_id>f0fd6fa0c3a09f10fd781212b401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b8fd6fa0c3a09f10fd781212b4013188</sys_name>
+        <sys_package display_value="SD-LAN" source="x_1877713_sd_lan">e4fd6fa0c3a09f10fd781212b4013176</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SD-LAN">e4fd6fa0c3a09f10fd781212b4013176</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f0fd6fa0c3a09f10fd781212b401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-11 12:31:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
